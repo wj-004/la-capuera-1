@@ -1,0 +1,56 @@
+vendedor
+inica sesion
+abre la caja
+introduce cambio inicial
+ventas>
+	efectivo
+	qr
+	transferencia
+	tarjeta
+
+al final del dia, cierra caja. y se genera el reporte
+discrimina por> 
+	inicio de caja
+	tipos de venta
+	total
+
+
+administrador
+al finalizar turno de vendedor, verificar informe de caja diaria.
+informar monto de inicio de caja
+
+
+Reportes>
+reporte de ventas del dia general
+
+planilla de control de stock:
+	generar una planilla con 50 productos a controlar
+	la planilla muestra el producto y su stock, para ser validado por el vendedor
+repote de productos en stock minimo	
+
+
+
+
+
+modif
+vendedor
+ventas> archivar ventas elminadas
+	>nueva venta: quitar seleccion de caja. agregar metodo de pago.
+cajas	>listar cajas: ce su caja, nada mas. No puede modificar ni elminar.
+	>no ve nueva caja en el menu
+	> no ve buscar caja
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
